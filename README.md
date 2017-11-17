@@ -1,4 +1,4 @@
-How to Start Nodes
+## How to Run Nodes #
 
 ### On Linix
 
